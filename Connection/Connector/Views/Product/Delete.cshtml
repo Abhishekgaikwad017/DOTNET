@@ -1,0 +1,36 @@
+@using BOL;
+@using BLL.connect;
+@using DAL.connect;
+@{
+      ViewData["Title"] = "Products data";
+}
+
+<div>
+      <h3>Products</h3>
+      @{
+            List<Product> pl = (List<Product>)this.ViewData["allproduct"];
+      }
+      <table border="1">
+            <thead>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Price</th>
+            </thead>
+            <tbody>
+                  @foreach(Product p in pl){
+                        <tr> 
+                              <td>@p.ID</td>
+                              <td>@p.TITLE</td>
+                              <td>@p.PRICE</td>
+                        </tr>
+                  }
+            </tbody>
+      </table>
+      <form method="post">
+            <br/>
+            <label for="de" >Title</label>
+            <input name="de"></input>
+            <br><br>
+            <button type="submit">Delete</button>
+      </form>
+</div>

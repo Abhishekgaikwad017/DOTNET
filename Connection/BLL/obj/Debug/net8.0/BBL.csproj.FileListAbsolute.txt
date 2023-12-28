@@ -1,0 +1,17 @@
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\obj\Debug\net8.0\BBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\obj\Debug\net8.0\BBL.AssemblyInfoInputs.cache
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\obj\Debug\net8.0\BBL.AssemblyInfo.cs
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\obj\Debug\net8.0\BBL.csproj.CoreCompileInputs.cache
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\bin\Debug\net8.0\BBL.deps.json
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\bin\Debug\net8.0\BBL.dll
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\bin\Debug\net8.0\BBL.pdb
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\bin\Debug\net8.0\BOL.dll
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\bin\Debug\net8.0\BOL.pdb
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\obj\Debug\net8.0\BBL.csproj.AssemblyReference.cache
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\obj\Debug\net8.0\BBL.csproj.CopyComplete
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\obj\Debug\net8.0\BBL.dll
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\obj\Debug\net8.0\refint\BBL.dll
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\obj\Debug\net8.0\BBL.pdb
+C:\Users\abhishek\Desktop\Dotnet\Connection\BLL\obj\Debug\net8.0\ref\BBL.dll

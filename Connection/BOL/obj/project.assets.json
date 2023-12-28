@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\IET\\.nuget\\packages\\": {}
+    "C:\\Users\\abhishek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IET\\Desktop\\dotnet\\Connection\\BOL\\BOL.csproj",
+      "projectUniqueName": "C:\\Users\\abhishek\\Desktop\\Dotnet\\Connection\\BOL\\BOL.csproj",
       "projectName": "BOL",
-      "projectPath": "C:\\Users\\IET\\Desktop\\dotnet\\Connection\\BOL\\BOL.csproj",
-      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IET\\Desktop\\dotnet\\Connection\\BOL\\obj\\",
+      "projectPath": "C:\\Users\\abhishek\\Desktop\\Dotnet\\Connection\\BOL\\BOL.csproj",
+      "packagesPath": "C:\\Users\\abhishek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abhishek\\Desktop\\Dotnet\\Connection\\BOL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\abhishek\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
