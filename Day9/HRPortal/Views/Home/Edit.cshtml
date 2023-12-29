@@ -1,0 +1,25 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Edit Details Page";
+    Employee emp = ViewData["emp"] as Employee;
+   
+}
+
+<div class="text-center">
+    <fieldset>
+    <form method = "post">
+    <legend> Register Employee</legend>
+    <div>
+    Employee Id : <input type="number" value = "@emp.EmployeeId" placeholder="@emp.EmployeeId" id="eid1" name="EmployeeId" readonly/>
+    <br>
+    <br>
+    Employee Name : <input type="text" placeholder="@emp.EmployeeName" id="en1" name="EmployeeName" required/>
+    <br>
+    <br>
+    Company Name : <input type= "text" placeholder="@emp.CompanyName" id="cn1" name ="CompanyName" required/>
+    <br>
+    <br>
+    <button type="submit">Submit</button>
+    </div>
+    </form>
+</div>
